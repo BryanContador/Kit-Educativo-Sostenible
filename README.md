@@ -9,8 +9,5 @@ Para la materia de Desarrollo sustentable, de la carrera Ingeniería en Sistemas
 Grupo B, a cargo de la maestra Ana Carolina Tirado Garibay.
 
 Equipo:
-Alejandro Antonio Gallegos Chavez
-Bryan Emiliano Becerril Bolaños
-Mario Iván Hernández Justiniani
-José Luis Ramírez Sánchez 
+Alejandro Antonio Gallegos Chavez || Bryan Emiliano Becerril Bolaños || Mario Iván Hernández Justiniani || José Luis Ramírez Sánchez 
 
