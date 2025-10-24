@@ -1,5 +1,5 @@
-#KIT EDUCATIVO
-##Insituto Tecnológico de Morelia
+# KIT EDUCATIVO
+## Insituto Tecnológico de Morelia
 Este kit tiene la función principal educar, sensibilizar y empoderar a las personas para que adopten prácticas sostenibles en su vida diaria a traves de este software interactivo.
 
 
